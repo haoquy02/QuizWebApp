@@ -1,8 +1,8 @@
 # About my project
 ⦁	 Base on this video:https://www.youtube.com/watch?v=MV1rEWlcW7U&list=WL&index=3&t=1779s&ab_channel=CodAffection
-⦁	Font-End: React.js
-⦁	Back-end: ASP.NET core 6.0
-⦁	Data base: SQL Sever
+- Font-End: React.js
+- Back-end: ASP.NET core 6.0
+- Data base: SQL Sever
 # About Font-End:
  - Using MUI to support display
  ![Login](https://github.com/haoquy02/QuizWebApp/assets/73586324/b12ac4d9-ae32-4f6c-b869-d4c77402c353)
@@ -17,7 +17,7 @@
 - Send API to get list of correct answer 
 - Compare user answer and correct answer for calculateScore and color the right/wrong question
 # About Back-End (model MVC):
-⦁	Design Pattern: Singleton, Factory, Builder, Dependency Injection, Auto mapper,ORM
-⦁	Using HMACSHA512 and Salt for encode password
-⦁	Using token for Authenticate
-⦁	Using cookie to store user data for next login
+ - Design Pattern: Singleton, Factory, Builder, Dependency Injection, Auto mapper,ORM
+ - Using HMACSHA512 and Salt for encode password
+ - Using token for Authenticate
+ - Using cookie to store user data for next login
