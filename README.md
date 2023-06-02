@@ -7,7 +7,7 @@
  - Using MUI to support display
  ![Login](https://github.com/haoquy02/QuizWebApp/assets/73586324/b12ac4d9-ae32-4f6c-b869-d4c77402c353)
 - Using axios to send/get API
-- After check if data is not valid, page will send an API to find user information. If data in database match with data user type -> Login success fully
+- After check if data is not valid, page will send an API to find user information. If data in database match with data user type -> Login successfull
  ![CreatAccount](https://github.com/haoquy02/QuizWebApp/assets/73586324/fdb1c4a5-1825-43ee-b5fa-87cfba912b8e)
 - Base on Login page, after check if data is not valid, page will send an API to find user information. If data not found in data base, then create account successfully.
  ![Question](https://github.com/haoquy02/QuizWebApp/assets/73586324/f802f4e2-79b8-446b-b5cb-2bfc91398c2d)
